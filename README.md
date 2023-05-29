@@ -1,3 +1,1 @@
-# FinalTest2.0
-FinalTest2.0
-JAVA LEARNING
+Я починаю курс Java в robot_dreams і вже вмію використовувати Git
